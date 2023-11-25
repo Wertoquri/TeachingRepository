@@ -1,0 +1,28 @@
+body {
+    background-color:lightslategrey;
+}
+
+.h1_coment {
+    text-align: center;
+    font-family: cursive;
+}
+
+h3 {
+    text-align: center;
+    font-family: cursive;
+}
+
+.ul {   
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+}
+
+textarea {
+    display: flex;
+    justify-content: center;
+}
+
+li {
+    font-family: cursive;
+}
