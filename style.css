@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+
+
+}
+
+.h2 {
+    display: flex;
+    justify-content: center;    
+    font-family: monospace;
+}
+
+.pg {
+    display: flex;
+    justify-content: center;
+}
+
+.lap1 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 150px;
+}
+
+.lap2 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+
+
+.lap1 img {
+    width: 200px;
+    height: 160px;
+}
+
+.lap2 img {
+    width: 180px;
+    height: 160px;
+}
+
+.div1 {
+    display: flex;
+    gap: 200px;
+}
+
+.a {
+    background: black;
+    font-family: monospace;
+    font-size: large;
+    cursor: pointer;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.a1 {
+    background: black;
+    font-family: monospace;
+    font-size: large;
+    cursor: pointer;
+    text-align: center;
+    border-radius: 5px;
+}
